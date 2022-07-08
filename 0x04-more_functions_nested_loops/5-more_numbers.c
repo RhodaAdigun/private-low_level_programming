@@ -9,7 +9,7 @@ void more_numbers(void)
 {
 	int loop = 0;
 
-	while (loop >= 0)
+	while (loop >= 10)
 	{
 		int num = '0';
 
