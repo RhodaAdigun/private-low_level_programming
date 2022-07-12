@@ -5,11 +5,11 @@
  * @b: p
  */
 
-void swap_int(int *a, int *b)
+void swap_int(int *a, int  *b)
 {
 	int new;
-	
+
 	new = *a;
 	*a = *b;
-	*b = new;
+	*b =  new;
 }
