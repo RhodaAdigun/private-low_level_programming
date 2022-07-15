@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "my_header.h"
 
 /**
  * reverse_array - Reverses the content of an array of integers.
