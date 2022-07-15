@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "my_header.h"
 
 /**
  * _strncpy - Copies at most an inputted number
