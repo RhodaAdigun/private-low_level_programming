@@ -1,4 +1,4 @@
-#include "main.h"
+#include "my_header.h"
 #include <stdio.h>
 
 /**
